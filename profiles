@@ -1,0 +1,14 @@
+snowflake:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      account: ybwinit-wp88576
+      user: Seal1997
+      password: Sahil@97
+      role: ACCOUNTADMIN
+      database: DB_ECOMM
+      warehouse: COMPUTE_WH
+      schema: DB_SCH
+      threads: 60
+      client_session_keep_alive: False
